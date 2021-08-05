@@ -1,1 +1,2 @@
-# quebra_senha_pdf
+Trabalhando com Multiprocessamento e Pool
+Registrando conhecimento adquirido na semana
